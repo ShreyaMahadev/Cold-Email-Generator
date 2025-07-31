@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/AI-Powered-ff69b4?logo=OpenAI" alt="AI">
 </p>
 
----
+<br>
 
 ## ✨ Project Description
 
@@ -17,7 +17,7 @@
 - 📂 Match your portfolio links to those skills
 - ✉️ Generate a tailored cold email draft for you to use
 
----
+<br>
 
 ## 🛠️ Features
 
@@ -27,7 +27,7 @@
 - AI-generated email drafts
 - Customizable and extendable
 
----
+<br>
 
 ## 🚀 Getting Started
 
@@ -67,7 +67,7 @@ streamlit run app\main.py
 
 The app will open in your browser at [http://localhost:8501](http://localhost:8501) 🌐
 
----
+<br>
 
 ## 📁 Project Structure
 
@@ -83,7 +83,7 @@ requirements.txt
 .env (optional)
 ```
 
----
+<br>
 
 ## 📝 Notes
 
@@ -91,14 +91,14 @@ requirements.txt
 - If you see missing module errors, install them with `pip install <module-name>`.
 - For best results, keep your dependencies up to date.
 
----
+<br>
 
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
----
+<br>
 
 ## 📧 Contact
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Shreya M
