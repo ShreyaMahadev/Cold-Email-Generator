@@ -1,0 +1,13 @@
+.env
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+.vscode/
+.idea/
+.streamlit/
+*.pkl
+*.log
+*.sqlite3
+*.db
+resource/*.csv
